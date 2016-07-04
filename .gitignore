@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 .idea
 build
 node_modules
+=======
+.idea
+build
+node_modules
+>>>>>>> acc510d3f5f6dedf12f68f5589c1645033ca1218
 typings
